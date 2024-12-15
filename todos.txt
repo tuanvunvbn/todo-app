@@ -1,3 +1,4 @@
-luoc trung
 Viet mail bao cao
-Study English
+Study Python
+Listen English
+Listen podcast Gian tu Trung

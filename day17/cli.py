@@ -23,7 +23,7 @@ while True:
             number = int(user_action[5:])
             number = number - 1
 
-            todos = functions.get_todos("todos.txt")
+            todos = functions.get_todos("../todos.txt")
 
             new_todo = input("Enter the new todo: ")
             todos[number] = new_todo + "\n"
